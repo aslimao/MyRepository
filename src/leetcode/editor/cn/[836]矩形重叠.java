@@ -33,18 +33,8 @@ package leetcode.editor.cn;//矩形以列表 [x1, y1, x2, y2] 的形式表示，
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public boolean isRectangleOverlap(int[] rec1, int[] rec2) {
-        int x11 = rec1[0];
-        int x12 = rec1[2];
-        int x21 = rec2[0];
-        int x22 = rec2[2];
-        int y11 = rec1[1];
-        int y12 = rec1[3];
-        int y21 = rec2[1];
-        int y22 = rec2[3];
-        int long1 = Math.abs(x12-x11);
-        int long2 = Math.abs(x22-x21);
-        int wide1 = Math.abs(y12-y11);
-        int wide2 = Math.abs(y22-y21);
+        return (Math.max(rec1[0], rec2[0]) < Math.min(rec1[2], rec2[2])
+                && Math.max(rec1[1], rec2[1]) < Math.min(rec1[3], rec2[3]));
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f40d4401-038a-4b5c-8dd1-bffacdafc9df" name="Default Changelist" comment="" />
+    <list default="true" id="f40d4401-038a-4b5c-8dd1-bffacdafc9df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/cn/[836]矩形重叠.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/editor/cn/[836]矩形重叠.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +76,7 @@
       <workItem from="1584501868079" duration="65000" />
       <workItem from="1584502256158" duration="924000" />
       <workItem from="1584506627895" duration="1397000" />
-      <workItem from="1584508059094" duration="9408000" />
+      <workItem from="1584508059094" duration="11817000" />
     </task>
     <servers />
   </component>
