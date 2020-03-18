@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f40d4401-038a-4b5c-8dd1-bffacdafc9df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyRepository/com/h3c/LeetCodePractice/LeetCodeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/h3c/LeetCodePractice/LeetCodeTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\MyRepository\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZHeAZuFPYu043jtmLK9a5QRfrL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.h3c.LeetCodePractice.leetcode.editor.cn" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f40d4401-038a-4b5c-8dd1-bffacdafc9df" name="Default Changelist" comment="" />
+      <created>1584500303220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584500303220</updated>
+      <workItem from="1584500307226" duration="1297000" />
+      <workItem from="1584501868079" duration="65000" />
+      <workItem from="1584502256158" duration="924000" />
+      <workItem from="1584506627895" duration="1397000" />
+      <workItem from="1584508059094" duration="8368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="197" key="#Notifications" timestamp="1584510921017">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="197" key="#Notifications/62.0.1858.1080@62.0.1858.1080" timestamp="1584510921017" />
+    <state x="810" y="229" width="491" height="621" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1584513425435">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="810" y="229" width="491" height="621" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1584513425435" />
+    <state x="639" y="304" key="FileChooserDialogImpl" timestamp="1584508923102">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="639" y="304" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1584508923102" />
+    <state x="383" y="97" key="SettingsEditor" timestamp="1584516275993">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="383" y="97" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1584516275993" />
+    <state x="517" y="199" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584509604271">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="517" y="199" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1584509604271" />
+    <state x="647" y="245" key="run.anything.popup" timestamp="1584516580122">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="647" y="245" key="run.anything.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1584516580122" />
+  </component>
+</project>
